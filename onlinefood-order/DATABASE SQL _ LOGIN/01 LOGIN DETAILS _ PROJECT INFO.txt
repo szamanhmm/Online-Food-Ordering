@@ -1,0 +1,12 @@
+**Database Name: onlinefoodorder
+
+**Developed by 327 Group 5**
+
+**Recommended PHP Version 5.6 or Newer**
+
+
+**Admin Login Details**
+
+Username: admin
+Password: 123456
+
